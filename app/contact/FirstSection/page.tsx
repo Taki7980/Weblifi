@@ -95,11 +95,10 @@ export default function FirstSection() {
     <div className=" items-center justify-center flex flex-col px-20 m:px-0 py-20 space-y-10 text-center ">
       {!submitted ? (
         <div className="text-5xl ">
-          <div className="text-5xl ">Talk with our sales team</div>
+          <div className="text-5xl ">Tell us Your Requirements</div>
 
           <div className="text-xl">
-            Fill out your information and a Bird sales representative will contact
-            you shortly.
+            Connect to us
           </div>
 
         </div>
